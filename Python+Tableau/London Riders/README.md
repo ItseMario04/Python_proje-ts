@@ -1,1 +1,1 @@
-
+In this project, the "Historical data for bike sharing in London" dataset from [Kaggel](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset) was cleaned and prepared using Python and pandas library. Subsequently, the results were visualized using [Tableau](https://public.tableau.com/views/LondonBikeRides_17889033876680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
