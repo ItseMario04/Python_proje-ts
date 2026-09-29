@@ -1,4 +1,4 @@
-# Intellectual Data Analysis
+# Intelligent Data Analysis
 
 Training custom ML models: 
 - Decision Tree;
