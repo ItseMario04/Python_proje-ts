@@ -1,6 +1,6 @@
 # Dimensionality reduction, clustering and classification of text data
 
-Machine learning (ML) models were trained using the [Materials and their Mechanical Properties](https://www.kaggle.com/datasets/purushottamnawale/materials) dataset obtained from the Autodesk Material Library. Following standard data cleaning and exploratory data analysis (EDA), a "clean" data table was obtained, which can be found in the [previous task]().
+Machine learning (ML) models were trained using the [Materials and their Mechanical Properties](https://www.kaggle.com/datasets/purushottamnawale/materials) dataset obtained from the Autodesk Material Library. Following standard data cleaning and exploratory data analysis (EDA), a "clean" data table was obtained, which can be found in the [previous task](https://github.com/ItseMario04/Python_proje-ts/blob/a024479573b0d85befec0438af8059f350d2e399/Intellectual%20Data%20Analysis/IDA%20of%20Materials%20and%20their%20Mechanical%20Properties/material.csv).
 
 This file contains solutions to three tasks:
 
